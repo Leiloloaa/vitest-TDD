@@ -1,0 +1,17 @@
+{
+  "name": "mini-vitest",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "> mini 版 vitest 框架，主要是在学习过程中通过简单实现其 api 来加深理解。",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "esbuild": "^0.17.14",
+    "glob": "^9.3.2"
+  }
+}

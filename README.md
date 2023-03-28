@@ -1,5 +1,20 @@
 # vitest 
 
+## 实现 mini-vitest
+
+> mini 版 vitest 框架，主要是在学习过程中通过简单实现其 api 来加深理解。
+
+### 实现目标
+
+- [x] test it
+- [x] expect toBe
+- [x] test.only
+- [x] 提示是否通过/报错
+- [x] beforeAll beforeEach afterAll afterEach
+- [x] describe
+- [x] 自动执行所有的测试脚本 *.spec.js
+  - 例如使用 npm run test 就执行所有符合条件的测试用例
+
 ## 常用的 API
 
 - it 执行测试的最小单元
